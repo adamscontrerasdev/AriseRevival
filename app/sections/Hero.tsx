@@ -11,7 +11,7 @@ export const Hero = () => {
         Realize Your Dream.
       </h1>
       <p className="text-center text-base md:text-xl font-bold text-white/50 max-w-4xl">
-        Unlock next-level growth with Revival Dream — a marketing agency that
+        Unlock next-level growth with Arise — a marketing agency that
         transforms your vision into measurable success. Strategy, creativity,
         and performance aligned.{" "}
       </p>

@@ -9,7 +9,7 @@ export default function TermsPage() {
 
       <p className="mb-4">
         These Terms and Conditions govern access to and use of the digital
-        marketing services provided by Revival Dream LLC. By hiring our
+        marketing services provided by Arise International LLC. By hiring our
         services, the client agrees to be legally bound by these terms.
       </p>
 

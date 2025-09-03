@@ -10,7 +10,7 @@ export const Benefit = () => {
       </h2>
       <div className="">
         <h1 className="text-center text-4xl md:text-6xl font-bold text-white max-w-4xl">
-          Why Forward-Thinking Companies Choose Revival Dream{" "}
+          Why Forward-Thinking Companies Choose Arise{" "}
         </h1>
         <p className="text-center text-base md:text-xl font-bold text-white/50 max-w-4xl mt-2">
           Our AI-powered approach delivers efficiency, clarity, and growth —

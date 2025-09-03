@@ -8,7 +8,7 @@ export default function PrivacyPolicyPage() {
       <h1 className="text-2xl font-semibold mb-6">Privacy Policy</h1>
 
       <p className="mb-4">
-        Revival Dream LLC is committed to protecting the privacy of users and
+        Arise International LLC is committed to protecting the privacy of users and
         clients. This Privacy Policy explains how we collect, use, and safeguard
         your personal data in accordance with applicable privacy laws.
       </p>
@@ -104,8 +104,8 @@ export default function PrivacyPolicyPage() {
       <p className="mb-4">
         For questions or concerns about this Privacy Policy or our data
         practices, please contact us at:{" "}
-        <a href="mailto:sales@revivaldream.com" className="underline">
-          sales@revivaldream.com
+        <a href="mailto:sales@arise.com" className="underline">
+          sales@arise.com
         </a>
         .
       </p>

@@ -9,9 +9,10 @@ export const Footer = () => {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between gap-6 text-sm leading-relaxed">
         {/* Info fiscal */}
         <div>
-          <h2 className="text-lg font-semibold mb-1">Revival Dream LLC</h2>
-          <p>30 N Gould St #46731</p>
-          <p>Sheridan, WY, 82801</p>
+          <h2 className="text-lg font-semibold mb-1">Arise International LLC
+</h2>
+          <p>3625 NW 82ND AVE STE 100-K</p>
+          <p>DORAL, FL, 33166</p>
           <p>United States</p>
         </div>
 
@@ -25,8 +26,8 @@ export const Footer = () => {
           </p>
           <p>
             Email:{" "}
-            <a href="mailto:sales@revivaldream.com" className="hover:underline">
-              sales@revivaldream.com
+            <a href="mailto:sales@arise.com" className="hover:underline">
+              sales@arise.com
             </a>
           </p>
         </div>
@@ -43,7 +44,7 @@ export const Footer = () => {
           </Link>
         </div>
         <div className="text-center md:text-right">
-          &copy; {new Date().getFullYear()} Revival Dream LLC. Todos los derechos reservados.
+          &copy; {new Date().getFullYear()} Arise International LLC. Todos los derechos reservados.
         </div>
       </div>
     </footer>
