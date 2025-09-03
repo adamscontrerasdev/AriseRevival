@@ -18,12 +18,12 @@ export const Footer = () => {
 
         {/* Contacto */}
         <div className="flex flex-col justify-end">
-          <p>
+          {/* <p>
             Tel:{" "}
             <a href="tel:+13073937026" className="hover:underline">
               +1 (307) 393-7026
             </a>
-          </p>
+          </p> */}
           <p>
             Email:{" "}
             <a href="mailto:sales@arise.com" className="hover:underline">
