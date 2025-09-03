@@ -26,8 +26,8 @@ export const Footer = () => {
           </p> */}
           <p>
             Email:{" "}
-            <a href="mailto:sales@arise.com" className="hover:underline">
-              sales@arise.com
+            <a href="mailto:sales@ariseint.com" className="hover:underline">
+              sales@ariseint.com
             </a>
           </p>
         </div>

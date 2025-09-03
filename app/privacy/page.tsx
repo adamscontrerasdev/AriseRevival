@@ -104,8 +104,8 @@ export default function PrivacyPolicyPage() {
       <p className="mb-4">
         For questions or concerns about this Privacy Policy or our data
         practices, please contact us at:{" "}
-        <a href="mailto:sales@arise.com" className="underline">
-          sales@arise.com
+        <a href="mailto:sales@ariseint.com" className="underline">
+          sales@ariseint.com
         </a>
         .
       </p>
