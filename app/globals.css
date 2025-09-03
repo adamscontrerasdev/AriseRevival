@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --primary: #fff3;
+  --primary: rgba(27, 240, 255, 0.411);
 }
 
 body {
